@@ -1,0 +1,111 @@
+systemd-+-Main-+-su---Main---9*[{Main}]
+        |      `-22*[{Main}]
+        |-ModemManager---2*[{ModemManager}]
+        |-NetworkManager-+-dhclient
+        |                `-2*[{NetworkManager}]
+        |-2*[WebKitNetworkPr---7*[{WebKitNetworkPr}]]
+        |-accounts-daemon---2*[{accounts-daemon}]
+        |-acpid
+        |-agetty
+        |-avahi-daemon---avahi-daemon
+        |-colord---2*[{colord}]
+        |-cron
+        |-csd-printer---2*[{csd-printer}]
+        |-cups-browsed---2*[{cups-browsed}]
+        |-cupsd
+        |-2*[dbus-daemon]
+        |-dbus-launch
+        |-dnsmasq
+        |-gnome-keyring-d---3*[{gnome-keyring-d}]
+        |-irqbalance---{irqbalance}
+        |-2*[kerneloops]
+        |-lightdm-+-Xorg---{Xorg}
+        |         |-lightdm-+-cinnamon-sessio-+-applet.py---{applet.py}
+        |         |         |                 |-blueberry-obex----3*[{blueberry-obex-}]
+        |         |         |                 |-cinnamon-killer---3*[{cinnamon-killer}]
+        |         |         |                 |-cinnamon-launch---cinnamon-+-firefox-+-Web Content---33*[{Web Content}]
+        |         |         |                 |                            |         |-Web Content---32*[{Web Content}]
+        |         |         |                 |                            |         |-Web Content---23*[{Web Content}]
+        |         |         |                 |                            |         |-WebExtensions---30*[{WebExtensions}]
+        |         |         |                 |                            |         `-63*[{firefox}]
+        |         |         |                 |                            `-15*[{cinnamon}]
+        |         |         |                 |-cinnamon-screen---3*[{cinnamon-screen}]
+        |         |         |                 |-csd-a11y-keyboa---3*[{csd-a11y-keyboa}]
+        |         |         |                 |-csd-a11y-settin---3*[{csd-a11y-settin}]
+        |         |         |                 |-csd-automount---3*[{csd-automount}]
+        |         |         |                 |-csd-background---3*[{csd-background}]
+        |         |         |                 |-csd-clipboard---2*[{csd-clipboard}]
+        |         |         |                 |-csd-color---3*[{csd-color}]
+        |         |         |                 |-csd-cursor---2*[{csd-cursor}]
+        |         |         |                 |-csd-housekeepin---3*[{csd-housekeepin}]
+        |         |         |                 |-csd-keyboard---3*[{csd-keyboard}]
+        |         |         |                 |-csd-media-keys---3*[{csd-media-keys}]
+        |         |         |                 |-csd-mouse---3*[{csd-mouse}]
+        |         |         |                 |-csd-orientation---3*[{csd-orientation}]
+        |         |         |                 |-csd-power---3*[{csd-power}]
+        |         |         |                 |-csd-print-notif---2*[{csd-print-notif}]
+        |         |         |                 |-csd-screensaver---2*[{csd-screensaver}]
+        |         |         |                 |-csd-sound---4*[{csd-sound}]
+        |         |         |                 |-csd-wacom---2*[{csd-wacom}]
+        |         |         |                 |-csd-xrandr---3*[{csd-xrandr}]
+        |         |         |                 |-csd-xsettings---3*[{csd-xsettings}]
+        |         |         |                 |-mintwelcome-lau---sh---mintwelcome---sh---mintwelcome.py---2*[{mintwelcome.py}]
+        |         |         |                 |-nemo-desktop---3*[{nemo-desktop}]
+        |         |         |                 |-nm-applet---3*[{nm-applet}]
+        |         |         |                 |-polkit-gnome-au---2*[{polkit-gnome-au}]
+        |         |         |                 |-ssh-agent
+        |         |         |                 `-3*[{cinnamon-sessio}]
+        |         |         `-2*[{lightdm}]
+        |         `-2*[{lightdm}]
+        |-lvmetad
+        |-lxcfs---3*[{lxcfs}]
+        |-master-+-pickup
+        |        `-qmgr
+        |-mintUpdate---4*[{mintUpdate}]
+        |-nemo---4*[{nemo}]
+        |-networkd-dispat---{networkd-dispat}
+        |-nvidia-persiste
+        |-ovs-vswitchd
+        |-ovsdb-server
+        |-packagekitd---2*[{packagekitd}]
+        |-polkitd---2*[{polkitd}]
+        |-pulseaudio---3*[{pulseaudio}]
+        |-rsyslogd---3*[{rsyslogd}]
+        |-rtkit-daemon---2*[{rtkit-daemon}]
+        |-smartd
+        |-sshd
+        |-systemd-+-(sd-pam)
+        |         |-at-spi-bus-laun-+-dbus-daemon
+        |         |                 `-3*[{at-spi-bus-laun}]
+        |         |-at-spi2-registr---2*[{at-spi2-registr}]
+        |         |-dbus-daemon
+        |         |-dconf-service---2*[{dconf-service}]
+        |         |-gnome-terminal--+-bash---mypid---mypid---sh---pstree
+        |         |                 `-3*[{gnome-terminal-}]
+        |         |-goa-daemon---3*[{goa-daemon}]
+        |         |-goa-identity-se---3*[{goa-identity-se}]
+        |         |-gvfs-afc-volume---3*[{gvfs-afc-volume}]
+        |         |-gvfs-goa-volume---2*[{gvfs-goa-volume}]
+        |         |-gvfs-gphoto2-vo---2*[{gvfs-gphoto2-vo}]
+        |         |-gvfs-mtp-volume---2*[{gvfs-mtp-volume}]
+        |         |-gvfs-udisks2-vo---2*[{gvfs-udisks2-vo}]
+        |         |-gvfsd-+-gvfsd-dnssd---2*[{gvfsd-dnssd}]
+        |         |       |-gvfsd-network---3*[{gvfsd-network}]
+        |         |       |-gvfsd-trash---2*[{gvfsd-trash}]
+        |         |       `-2*[{gvfsd}]
+        |         |-gvfsd-fuse---5*[{gvfsd-fuse}]
+        |         |-gvfsd-metadata---2*[{gvfsd-metadata}]
+        |         |-obexd
+        |         |-sublime_text-+-plugin_host---2*[{plugin_host}]
+        |         |              `-7*[{sublime_text}]
+        |         `-xreaderd---2*[{xreaderd}]
+        |-systemd-journal
+        |-systemd-logind
+        |-systemd-resolve
+        |-systemd-timesyn---{systemd-timesyn}
+        |-systemd-udevd
+        |-thermald---{thermald}
+        |-udisksd---4*[{udisksd}]
+        |-upowerd---2*[{upowerd}]
+        |-wpa_supplicant
+        `-2*[xreader---9*[{xreader}]]
