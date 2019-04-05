@@ -1,0 +1,7 @@
+arbolpodado-+-arbolpodado
+            |-arbolpodado---arbolpodado
+            |-arbolpodado---arbolpodado---arbolpodado
+            |-arbolpodado---arbolpodado---arbolpodado---arbolpodado
+            |-arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado
+            |-arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado
+            `-arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado---arbolpodado---sh---pstree

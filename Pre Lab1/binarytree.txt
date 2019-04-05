@@ -1,0 +1,8 @@
+binarytree(7248)-+-binarytree(7249)-+-binarytree(7251)-+-binarytree(7255)
+                 |                  |                  `-binarytree(7258)
+                 |                  `-binarytree(7253)-+-binarytree(7257)
+                 |                                     `-binarytree(7261)
+                 `-binarytree(7250)-+-binarytree(7252)-+-binarytree(7256)
+                                    |                  `-binarytree(7259)
+                                    `-binarytree(7254)-+-binarytree(7260)
+                                                       `-binarytree(7262)---sh(7263)---pstree(7264)

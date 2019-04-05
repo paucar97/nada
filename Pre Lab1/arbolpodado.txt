@@ -1,0 +1,2 @@
+arbolpodado-+-6*[arbolpodado]
+            `-sh---pstree
