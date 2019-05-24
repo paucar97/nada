@@ -1,0 +1,1417 @@
+******** Pidiendo memoria para 5 bytes...
+
+Numero de units que se necesita: 3
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 602080 - Size:0
+
+Llamo morecore
+- Imprimiendo espacio libre nuevo:
+Address: 21f5000, size: 1024
+
+Hueco actual: 21f5000, size: 1024
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1024 - siguiente: 602080
+Units del nuevo hueco: 1021
+Nuevo espacio asignado, address:21f6fe8 - size: 3
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1021
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6ff8
+Bloque de 5 bytes , Direccion: 21f6ff8
+
+******** Pidiendo memoria para 10 bytes...
+
+Numero de units que se necesita: 4
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1021
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 1021
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1021 - siguiente: 602080
+Units del nuevo hueco: 1017
+Nuevo espacio asignado, address:21f6fc8 - size: 4
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1017
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6fd8
+Bloque de 10 bytes , Direccion: 21f6fd8
+
+******** Pidiendo memoria para 15 bytes...
+
+Numero de units que se necesita: 4
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1017
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 1017
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1017 - siguiente: 602080
+Units del nuevo hueco: 1013
+Nuevo espacio asignado, address:21f6fa8 - size: 4
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1013
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6fb8
+Bloque de 15 bytes , Direccion: 21f6fb8
+
+******** Pidiendo memoria para 20 bytes...
+
+Numero de units que se necesita: 5
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1013
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 1013
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1013 - siguiente: 602080
+Units del nuevo hueco: 1008
+Nuevo espacio asignado, address:21f6f80 - size: 5
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1008
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6f90
+Bloque de 20 bytes , Direccion: 21f6f90
+
+******** Pidiendo memoria para 25 bytes...
+
+Numero de units que se necesita: 6
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1008
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 1008
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1008 - siguiente: 602080
+Units del nuevo hueco: 1002
+Nuevo espacio asignado, address:21f6f50 - size: 6
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1002
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6f60
+Bloque de 25 bytes , Direccion: 21f6f60
+
+******** Pidiendo memoria para 30 bytes...
+
+Numero de units que se necesita: 6
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:1002
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 1002
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 1002 - siguiente: 602080
+Units del nuevo hueco: 996
+Nuevo espacio asignado, address:21f6f20 - size: 6
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:996
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6f30
+Bloque de 30 bytes , Direccion: 21f6f30
+
+******** Pidiendo memoria para 35 bytes...
+
+Numero de units que se necesita: 7
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:996
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 996
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 996 - siguiente: 602080
+Units del nuevo hueco: 989
+Nuevo espacio asignado, address:21f6ee8 - size: 7
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:989
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6ef8
+Bloque de 35 bytes , Direccion: 21f6ef8
+
+******** Pidiendo memoria para 40 bytes...
+
+Numero de units que se necesita: 7
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:989
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 989
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 989 - siguiente: 602080
+Units del nuevo hueco: 982
+Nuevo espacio asignado, address:21f6eb0 - size: 7
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:982
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6ec0
+Bloque de 40 bytes , Direccion: 21f6ec0
+
+******** Pidiendo memoria para 45 bytes...
+
+Numero de units que se necesita: 8
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:982
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 982
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 982 - siguiente: 602080
+Units del nuevo hueco: 974
+Nuevo espacio asignado, address:21f6e70 - size: 8
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:974
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6e80
+Bloque de 45 bytes , Direccion: 21f6e80
+
+******** Pidiendo memoria para 50 bytes...
+
+Numero de units que se necesita: 9
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:974
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 974
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 974 - siguiente: 602080
+Units del nuevo hueco: 965
+Nuevo espacio asignado, address:21f6e28 - size: 9
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:965
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6e38
+Bloque de 50 bytes , Direccion: 21f6e38
+
+******** Pidiendo memoria para 55 bytes...
+
+Numero de units que se necesita: 9
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:965
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 965
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 965 - siguiente: 602080
+Units del nuevo hueco: 956
+Nuevo espacio asignado, address:21f6de0 - size: 9
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:956
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6df0
+Bloque de 55 bytes , Direccion: 21f6df0
+
+******** Pidiendo memoria para 60 bytes...
+
+Numero de units que se necesita: 10
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:956
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 956
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 956 - siguiente: 602080
+Units del nuevo hueco: 946
+Nuevo espacio asignado, address:21f6d90 - size: 10
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:946
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6da0
+Bloque de 60 bytes , Direccion: 21f6da0
+
+******** Pidiendo memoria para 65 bytes...
+
+Numero de units que se necesita: 11
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:946
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 946
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 946 - siguiente: 602080
+Units del nuevo hueco: 935
+Nuevo espacio asignado, address:21f6d38 - size: 11
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:935
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6d48
+Bloque de 65 bytes , Direccion: 21f6d48
+
+******** Pidiendo memoria para 70 bytes...
+
+Numero de units que se necesita: 11
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:935
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 935
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 935 - siguiente: 602080
+Units del nuevo hueco: 924
+Nuevo espacio asignado, address:21f6ce0 - size: 11
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:924
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6cf0
+Bloque de 70 bytes , Direccion: 21f6cf0
+
+******** Pidiendo memoria para 75 bytes...
+
+Numero de units que se necesita: 12
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:924
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 924
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 924 - siguiente: 602080
+Units del nuevo hueco: 912
+Nuevo espacio asignado, address:21f6c80 - size: 12
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:912
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6c90
+Bloque de 75 bytes , Direccion: 21f6c90
+
+******** Pidiendo memoria para 80 bytes...
+
+Numero de units que se necesita: 12
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:912
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 912
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 912 - siguiente: 602080
+Units del nuevo hueco: 900
+Nuevo espacio asignado, address:21f6c20 - size: 12
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:900
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6c30
+Bloque de 80 bytes , Direccion: 21f6c30
+
+******** Pidiendo memoria para 85 bytes...
+
+Numero de units que se necesita: 13
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:900
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 900
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 900 - siguiente: 602080
+Units del nuevo hueco: 887
+Nuevo espacio asignado, address:21f6bb8 - size: 13
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:887
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6bc8
+Bloque de 85 bytes , Direccion: 21f6bc8
+
+******** Pidiendo memoria para 90 bytes...
+
+Numero de units que se necesita: 14
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:887
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 887
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 887 - siguiente: 602080
+Units del nuevo hueco: 873
+Nuevo espacio asignado, address:21f6b48 - size: 14
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:873
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6b58
+Bloque de 90 bytes , Direccion: 21f6b58
+
+******** Pidiendo memoria para 95 bytes...
+
+Numero de units que se necesita: 14
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:873
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 873
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 873 - siguiente: 602080
+Units del nuevo hueco: 859
+Nuevo espacio asignado, address:21f6ad8 - size: 14
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:859
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6ae8
+Bloque de 95 bytes , Direccion: 21f6ae8
+
+******** Pidiendo memoria para 100 bytes...
+
+Numero de units que se necesita: 15
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:859
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 859
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 859 - siguiente: 602080
+Units del nuevo hueco: 844
+Nuevo espacio asignado, address:21f6a60 - size: 15
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:844
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6a70
+Bloque de 100 bytes , Direccion: 21f6a70
+
+******** Pidiendo memoria para 105 bytes...
+
+Numero de units que se necesita: 16
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:844
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 844
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 844 - siguiente: 602080
+Units del nuevo hueco: 828
+Nuevo espacio asignado, address:21f69e0 - size: 16
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:828
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f69f0
+Bloque de 105 bytes , Direccion: 21f69f0
+
+******** Pidiendo memoria para 110 bytes...
+
+Numero de units que se necesita: 16
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:828
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 828
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 828 - siguiente: 602080
+Units del nuevo hueco: 812
+Nuevo espacio asignado, address:21f6960 - size: 16
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:812
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6970
+Bloque de 110 bytes , Direccion: 21f6970
+
+******** Pidiendo memoria para 115 bytes...
+
+Numero de units que se necesita: 17
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:812
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 812
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 812 - siguiente: 602080
+Units del nuevo hueco: 795
+Nuevo espacio asignado, address:21f68d8 - size: 17
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:795
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f68e8
+Bloque de 115 bytes , Direccion: 21f68e8
+
+******** Pidiendo memoria para 120 bytes...
+
+Numero de units que se necesita: 17
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:795
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 795
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 795 - siguiente: 602080
+Units del nuevo hueco: 778
+Nuevo espacio asignado, address:21f6850 - size: 17
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:778
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6860
+Bloque de 120 bytes , Direccion: 21f6860
+
+******** Pidiendo memoria para 125 bytes...
+
+Numero de units que se necesita: 18
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:778
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 778
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 778 - siguiente: 602080
+Units del nuevo hueco: 760
+Nuevo espacio asignado, address:21f67c0 - size: 18
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:760
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f67d0
+Bloque de 125 bytes , Direccion: 21f67d0
+
+******** Pidiendo memoria para 130 bytes...
+
+Numero de units que se necesita: 19
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:760
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 760
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 760 - siguiente: 602080
+Units del nuevo hueco: 741
+Nuevo espacio asignado, address:21f6728 - size: 19
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:741
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6738
+Bloque de 130 bytes , Direccion: 21f6738
+
+******** Pidiendo memoria para 135 bytes...
+
+Numero de units que se necesita: 19
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:741
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 741
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 741 - siguiente: 602080
+Units del nuevo hueco: 722
+Nuevo espacio asignado, address:21f6690 - size: 19
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:722
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f66a0
+Bloque de 135 bytes , Direccion: 21f66a0
+
+******** Pidiendo memoria para 140 bytes...
+
+Numero de units que se necesita: 20
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:722
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 722
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 722 - siguiente: 602080
+Units del nuevo hueco: 702
+Nuevo espacio asignado, address:21f65f0 - size: 20
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:702
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6600
+Bloque de 140 bytes , Direccion: 21f6600
+
+******** Pidiendo memoria para 145 bytes...
+
+Numero de units que se necesita: 21
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:702
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 702
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 702 - siguiente: 602080
+Units del nuevo hueco: 681
+Nuevo espacio asignado, address:21f6548 - size: 21
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:681
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6558
+Bloque de 145 bytes , Direccion: 21f6558
+
+******** Pidiendo memoria para 150 bytes...
+
+Numero de units que se necesita: 21
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:681
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 681
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 681 - siguiente: 602080
+Units del nuevo hueco: 660
+Nuevo espacio asignado, address:21f64a0 - size: 21
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:660
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f64b0
+Bloque de 150 bytes , Direccion: 21f64b0
+
+******** Pidiendo memoria para 155 bytes...
+
+Numero de units que se necesita: 22
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:660
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 660
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 660 - siguiente: 602080
+Units del nuevo hueco: 638
+Nuevo espacio asignado, address:21f63f0 - size: 22
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:638
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6400
+Bloque de 155 bytes , Direccion: 21f6400
+
+******** Pidiendo memoria para 160 bytes...
+
+Numero de units que se necesita: 22
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:638
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 638
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 638 - siguiente: 602080
+Units del nuevo hueco: 616
+Nuevo espacio asignado, address:21f6340 - size: 22
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:616
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6350
+Bloque de 160 bytes , Direccion: 21f6350
+
+******** Pidiendo memoria para 165 bytes...
+
+Numero de units que se necesita: 23
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:616
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 616
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 616 - siguiente: 602080
+Units del nuevo hueco: 593
+Nuevo espacio asignado, address:21f6288 - size: 23
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:593
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6298
+Bloque de 165 bytes , Direccion: 21f6298
+
+******** Pidiendo memoria para 170 bytes...
+
+Numero de units que se necesita: 24
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:593
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 593
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 593 - siguiente: 602080
+Units del nuevo hueco: 569
+Nuevo espacio asignado, address:21f61c8 - size: 24
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:569
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f61d8
+Bloque de 170 bytes , Direccion: 21f61d8
+
+******** Pidiendo memoria para 175 bytes...
+
+Numero de units que se necesita: 24
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:569
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 569
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 569 - siguiente: 602080
+Units del nuevo hueco: 545
+Nuevo espacio asignado, address:21f6108 - size: 24
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:545
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6118
+Bloque de 175 bytes , Direccion: 21f6118
+
+******** Pidiendo memoria para 180 bytes...
+
+Numero de units que se necesita: 25
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:545
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 545
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 545 - siguiente: 602080
+Units del nuevo hueco: 520
+Nuevo espacio asignado, address:21f6040 - size: 25
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:520
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6050
+Bloque de 180 bytes , Direccion: 21f6050
+
+******** Pidiendo memoria para 185 bytes...
+
+Numero de units que se necesita: 26
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:520
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 520
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 520 - siguiente: 602080
+Units del nuevo hueco: 494
+Nuevo espacio asignado, address:21f5f70 - size: 26
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:494
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5f80
+Bloque de 185 bytes , Direccion: 21f5f80
+
+******** Pidiendo memoria para 190 bytes...
+
+Numero de units que se necesita: 26
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:494
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 494
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 494 - siguiente: 602080
+Units del nuevo hueco: 468
+Nuevo espacio asignado, address:21f5ea0 - size: 26
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:468
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5eb0
+Bloque de 190 bytes , Direccion: 21f5eb0
+
+******** Pidiendo memoria para 195 bytes...
+
+Numero de units que se necesita: 27
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:468
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 468
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 468 - siguiente: 602080
+Units del nuevo hueco: 441
+Nuevo espacio asignado, address:21f5dc8 - size: 27
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:441
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5dd8
+Bloque de 195 bytes , Direccion: 21f5dd8
+
+******** Pidiendo memoria para 200 bytes...
+
+Numero de units que se necesita: 27
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:441
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 441
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 441 - siguiente: 602080
+Units del nuevo hueco: 414
+Nuevo espacio asignado, address:21f5cf0 - size: 27
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:414
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5d00
+Bloque de 200 bytes , Direccion: 21f5d00
+
+******** Pidiendo memoria para 205 bytes...
+
+Numero de units que se necesita: 28
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:414
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 414
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 414 - siguiente: 602080
+Units del nuevo hueco: 386
+Nuevo espacio asignado, address:21f5c10 - size: 28
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:386
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5c20
+Bloque de 205 bytes , Direccion: 21f5c20
+
+******** Pidiendo memoria para 210 bytes...
+
+Numero de units que se necesita: 29
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:386
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 386
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 386 - siguiente: 602080
+Units del nuevo hueco: 357
+Nuevo espacio asignado, address:21f5b28 - size: 29
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:357
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5b38
+Bloque de 210 bytes , Direccion: 21f5b38
+
+******** Pidiendo memoria para 215 bytes...
+
+Numero de units que se necesita: 29
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:357
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 357
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 357 - siguiente: 602080
+Units del nuevo hueco: 328
+Nuevo espacio asignado, address:21f5a40 - size: 29
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:328
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5a50
+Bloque de 215 bytes , Direccion: 21f5a50
+
+******** Pidiendo memoria para 220 bytes...
+
+Numero de units que se necesita: 30
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:328
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 328
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 328 - siguiente: 602080
+Units del nuevo hueco: 298
+Nuevo espacio asignado, address:21f5950 - size: 30
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:298
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5960
+Bloque de 220 bytes , Direccion: 21f5960
+
+******** Pidiendo memoria para 225 bytes...
+
+Numero de units que se necesita: 31
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:298
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 298
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 298 - siguiente: 602080
+Units del nuevo hueco: 267
+Nuevo espacio asignado, address:21f5858 - size: 31
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:267
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5868
+Bloque de 225 bytes , Direccion: 21f5868
+
+******** Pidiendo memoria para 230 bytes...
+
+Numero de units que se necesita: 31
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:267
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 267
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 267 - siguiente: 602080
+Units del nuevo hueco: 236
+Nuevo espacio asignado, address:21f5760 - size: 31
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:236
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5770
+Bloque de 230 bytes , Direccion: 21f5770
+
+******** Pidiendo memoria para 235 bytes...
+
+Numero de units que se necesita: 32
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:236
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 236
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 236 - siguiente: 602080
+Units del nuevo hueco: 204
+Nuevo espacio asignado, address:21f5660 - size: 32
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:204
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5670
+Bloque de 235 bytes , Direccion: 21f5670
+
+******** Pidiendo memoria para 240 bytes...
+
+Numero de units que se necesita: 32
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:204
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 204
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 204 - siguiente: 602080
+Units del nuevo hueco: 172
+Nuevo espacio asignado, address:21f5560 - size: 32
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:172
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5570
+Bloque de 240 bytes , Direccion: 21f5570
+
+******** Pidiendo memoria para 245 bytes...
+
+Numero de units que se necesita: 33
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:172
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 172
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 172 - siguiente: 602080
+Units del nuevo hueco: 139
+Nuevo espacio asignado, address:21f5458 - size: 33
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:139
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5468
+Bloque de 245 bytes , Direccion: 21f5468
+
+******** Pidiendo memoria para 250 bytes...
+
+Numero de units que se necesita: 34
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:139
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 139
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 139 - siguiente: 602080
+Units del nuevo hueco: 105
+Nuevo espacio asignado, address:21f5348 - size: 34
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:105
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5358
+Bloque de 250 bytes , Direccion: 21f5358
+
+******** Pidiendo memoria para 255 bytes...
+
+Numero de units que se necesita: 34
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:105
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 105
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 105 - siguiente: 602080
+Units del nuevo hueco: 71
+Nuevo espacio asignado, address:21f5238 - size: 34
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:71
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5248
+Bloque de 255 bytes , Direccion: 21f5248
+
+******** Pidiendo memoria para 260 bytes...
+
+Numero de units que se necesita: 35
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:71
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 71
+Worst: 21f5000
+
+Worst es mas grande que el espacio requerido
+Worst: 21f5000 - size: 71 - siguiente: 602080
+Units del nuevo hueco: 36
+Nuevo espacio asignado, address:21f5120 - size: 35
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:36
+Address: 602080 - Size:0
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f5130
+Bloque de 260 bytes , Direccion: 21f5130
+
+******** Pidiendo memoria para 265 bytes...
+
+Numero de units que se necesita: 36
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f5000 - Size:36
+Address: 602080 - Size:0
+
+Hueco actual: 21f5000, size: 36
+Worst: 21f5000
+
+Worst tiene espacio exacto
+Bloque de 265 bytes , Direccion: 602080
+
+******** Pidiendo memoria para 270 bytes...
+
+Numero de units que se necesita: 36
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 602080 - Size:0
+
+Hueco actual: 602080, size: 0
+Worst: 0
+
+Bloque de 270 bytes , Direccion: no se pudo asignar
+*****************************PRUEBA***************************
+Liberando dos bloques de 10 bytes y de 30 bytes...
+
+
+******** Pidiendo memoria para 10 bytes...
+
+Deberia escoger el espacio mayor...
+
+Numero de units que se necesita: 4
+Antes de malloc
+- Imprimiendo espacios libres:
+Freep : 602080
+Address: 21f6f20 - Size:6
+Address: 21f6fc8 - Size:4
+Address: 602080 - Size:0
+
+Hueco actual: 21f6f20, size: 6
+Hueco actual: 21f6fc8, size: 4
+Worst: 21f6f20
+
+Worst es mas grande que el espacio requerido
+Worst: 21f6f20 - size: 6 - siguiente: 21f6fc8
+Units del nuevo hueco: 2
+Nuevo espacio asignado, address:21f6f30 - size: 4
+
+Despues de malloc
+- Imprimiendo espacios libres:
+Freep : 21f6f20
+Address: 21f6fc8 - Size:4
+Address: 602080 - Size:0
+Address: 21f6f20 - Size:2
+
+Direccion de inicio del nuevo bloque (sin contar la cabecera):21f6f40
+Bloque de 10 bytes , Direccion: 21f6f40
+
