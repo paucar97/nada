@@ -1,0 +1,25 @@
+Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc3b010
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc65010
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc6d020
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc75030
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc7d040
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc85050
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc8d060
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc95070
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc9d080
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bca5090
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcad0a0
+ 
+
+Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc75030
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bc8d060
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcb50b0
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcbd0c0
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcc50d0
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bccd0e0
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcd50f0
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcdd100
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bce5110
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bced120
+ Se solicitaron 32768 bytes y estan ubicados en 0x557f0bcf5130
+ 
