@@ -1,0 +1,18 @@
+El laboratorio 4 de Sistemas Operativos consistirá en 
+analizar el código del simulador de reemplazo de páginas
+"vmsim". 
+
+Se evaluarán los siguientes aspectos:
+
+a) Comprensión del código, se realizaran preguntas relacionados 
+con el código que demuestren su entendimiento.
+
+b) Modificación del código, se le solicitará algunas modificaciones
+sobre el código. Como ejercicio, por su parte puede implementar
+ los algoritmos que no se encuentren implementados.
+
+c) Análisis de los algortimos, se llevará a cabo experimento con
+los datos y resultados de los algoritmos.
+
+Prof. Alejandro T. Bello Ruiz
+
