@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "fault.h": "c",
+        "stats.h": "c",
+        "physmem.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
